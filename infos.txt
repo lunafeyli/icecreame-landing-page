@@ -1,0 +1,3 @@
+purple - #7d7dc5
+pink - #fd7ebb
+blue - #7abee4
